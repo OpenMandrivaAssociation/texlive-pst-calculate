@@ -1,6 +1,6 @@
 Name:		texlive-pst-calculate
 Version:	49817
-Release:	1
+Release:	2
 Summary:	Support for floating point operations at LaTeX level
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-calculate
