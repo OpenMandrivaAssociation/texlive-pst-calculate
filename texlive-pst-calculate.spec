@@ -3,7 +3,7 @@ Version:	49817
 Release:	2
 Summary:	Support for floating point operations at LaTeX level
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-calculate
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-calculate
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-calculate.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-calculate.doc.r%{version}.tar.xz
